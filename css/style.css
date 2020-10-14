@@ -507,6 +507,10 @@ header{
         width: 100%;
     }
 
+    .navbar .nav-items .nav-item{
+        padding: 1.5rem 2rem;
+    }
+
     .header-content .main-heading{
         display: none;
     }
@@ -537,11 +541,31 @@ header{
         box-shadow: none;
     }
 
+    .counts .count-item1{
+        width: 30%;
+    }
+
+    .count-item{
+        width: 23.333333333333333%;
+    }
+
     .cta-banner-left,
     .cta-banner-right{
         float: none;
         width: 100%;
         text-align: center;
+    }
+
+    .btn-cta{
+        font-size: 1.5rem;
+    }
+
+    .justify-text{
+        text-align: justify;
+    }
+
+    .about-us{
+        padding-bottom: 3rem;
     }
 
     .about-wrapper .left,
